@@ -14,6 +14,7 @@ Friend functions are applied to showcase their interaction with inherited classe
 The assignment addresses the diamond problem, highlighting challenges in multiple inheritance. 
 A practical payroll system is implemented to demonstrate real-world use of inheritance.
 Overall, it offers a comprehensive look at how inheritance enhances code reusability and organization.
+
 ## 💡 Key Concepts Used in Features of Inheritance:
 
 (i) Base Class & Derived Class:
@@ -33,6 +34,7 @@ Special functions that can access private or protected members of a class.
 
 (vi) Diamond Problem:
 A scenario in multiple inheritance where ambiguity arises due to repeated inheritance of a base class.
+
 ## Features of Inheritance (C++):
 
 ✅ Code Reusability:
@@ -55,28 +57,23 @@ A scenario in multiple inheritance where ambiguity arises due to repeated inheri
 
 ✅ Friend Function Interaction:
 * Friend functions can access private or protected members of derived classes, allowing controlled interaction.
+
 ## 🔔 Purpose of Features of Inheritance in C++:
 
-1. Code Reusability:
-* Reduce redundancy by reusing existing class properties and methods in new classes.
+1. Code Reusability: Reduce redundancy by reusing existing class properties and methods in new classes.
 
-2. Organized Hierarchy:
-* Establish a clear parent–child relationship among classes for better program structure.
+2. Organized Hierarchy: Establish a clear parent–child relationship among classes for better program structure.
 
-3. Extensibility:
-* Allow creation of new classes with added features based on existing classes.
+3. Extensibility: Allow creation of new classes with added features based on existing classes.
 
-4. Access Control:
-* Control how base class members are accessed by derived classes using public, protected, or private inheritance.
+4. Access Control: Control how base class members are accessed by derived classes using public, protected, or private inheritance.
 
-5. Polymorphism Support:
-* Enable derived classes to override base class functions and provide specific behavior.
+5. Polymorphism Support: Enable derived classes to override base class functions and provide specific behavior.
 
-6. Problem Solving (Diamond Problem Handling):
-* Manage complexities in multiple inheritance, such as ambiguity or duplicate members, using virtual inheritance.
+6. Problem Solving (Diamond Problem Handling):  Manage complexities in multiple inheritance, such as ambiguity or duplicate members, using virtual inheritance.
 
-7. Practical Application:
-* Implement real-world systems like payroll, employee management, and other hierarchical structures efficiently.
+7. Practical Application: Implement real-world systems like payroll, employee management, and other hierarchical structures efficiently.
+
 ## 📚 What I Learned from This Assignment:
 
 🧠 Understanding Inheritance: Learned how base and derived classes work and how inheritance helps in code reusability.
